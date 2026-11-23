@@ -1,0 +1,136 @@
+username,display_name,employee_id,department,account_type,account_status,mfa_enrolled,created_date,last_logon
+dmorin,Daniel Morin,E1001,Network Operations,human,Enabled,N,2023-10-27,2026-11-13 09:41:15
+lbennett,Laura Bennett,E1002,Sales,human,Enabled,Y,2023-04-30,2026-11-15 17:55:24
+mgagnon,Marc Gagnon,E1003,Sales,human,Enabled,Y,2021-06-09,2026-11-13 08:15:05
+tcampbell,Tyler Campbell,E1004,Customer Care,human,Enabled,Y,2024-09-18,2026-11-14 19:22:31
+skowalski,Sam Kowalski,E1005,Customer Care,human,Enabled,Y,2024-05-11,2026-11-15 08:27:37
+nfraser,Nina Fraser,E1006,Customer Care,human,Enabled,Y,2019-08-15,2026-11-14 09:24:47
+ehall,Emma Hall,E1007,Billing,human,Enabled,Y,2025-02-19,2026-11-13 13:27:08
+bthompson,Brian Thompson,E1008,Network Operations,human,Enabled,Y,2020-05-01,2026-11-12 13:26:22
+aparker,Alex Parker,E1009,Network Operations,human,Enabled,N,2020-05-31,2026-11-13 08:00:42
+jwilson,Jordan Wilson,E1010,IT Service Desk,human,Enabled,N,2022-01-25,2026-11-12 08:55:19
+gmartin,Grace Martin,E1011,Billing,human,Enabled,Y,2024-10-19,2026-11-05 17:00:00
+hlee,Holly Lee,E1012,Field Services,human,Enabled,Y,2019-08-09,2026-11-12 17:00:00
+tzhang,Tara Zhang,E1013,Customer Care,human,Enabled,Y,2019-03-28,2026-11-13 12:59:11
+eevans,Ethan Evans,E1014,Customer Care,human,Enabled,Y,2019-07-15,2026-11-13 13:58:44
+kking,Kara King,E1015,Customer Care,human,Enabled,Y,2024-01-20,2026-11-15 16:31:49
+cwalker,Caleb Walker,E1016,Customer Care,human,Enabled,Y,2019-01-19,2026-11-15 18:51:45
+hschmidt,Hannah Schmidt,E1017,Customer Care,human,Enabled,Y,2021-04-19,2026-05-27 15:00:00
+ufriesen,Uma Friesen,E1018,Customer Care,human,Enabled,Y,2023-02-19,2026-11-15 13:47:36
+lcarter,Liam Carter,E1019,Customer Care,human,Enabled,Y,2024-05-06,2026-11-15 19:28:45
+iwong,Isaac Wong,E1020,Customer Care,human,Enabled,Y,2019-07-13,2026-11-15 18:09:11
+holsen,Holly Olsen,E1021,Customer Care,human,Enabled,Y,2022-05-13,2026-11-15 10:04:02
+lyoung,Leah Young,E1022,Customer Care,human,Enabled,Y,2019-10-17,2026-11-13 07:55:18
+djensen,Diana Jensen,E1023,Customer Care,human,Enabled,Y,2020-07-30,2026-11-15 11:12:05
+aprice,Ava Price,E1024,Customer Care,human,Enabled,Y,2024-02-08,2026-11-15 11:15:27
+treid,Tessa Reid,E1025,Customer Care,human,Enabled,Y,2022-01-29,2026-11-15 14:25:54
+ljensen,Liam Jensen,E1026,Customer Care,human,Enabled,Y,2022-05-08,2026-11-15 17:23:12
+pbell,Paige Bell,E1027,Customer Care,human,Enabled,Y,2021-08-30,2026-11-15 07:06:02
+vhayes,Victor Hayes,E1028,Customer Care,human,Enabled,Y,2021-08-23,2026-11-15 15:13:01
+kmackay,Kyle Mackay,E1029,Customer Care,human,Enabled,Y,2020-05-10,2026-06-04 12:00:00
+fbrooks,Faith Brooks,E1030,Customer Care,human,Enabled,Y,2023-01-13,2026-11-15 15:09:25
+vwatson,Vince Watson,E1031,Customer Care,human,Enabled,Y,2020-10-16,2026-11-13 12:57:57
+kwalker,Kevin Walker,E1032,Customer Care,human,Enabled,Y,2025-01-04,2026-11-15 08:58:22
+ukaur,Uma Kaur,E1033,Customer Care,human,Enabled,Y,2023-07-31,2026-11-15 09:58:10
+iking,Isaac King,E1034,Customer Care,human,Enabled,Y,2024-05-03,2026-11-15 12:41:27
+vanderson,Victor Anderson,E1035,Customer Care,human,Enabled,Y,2023-12-01,2026-11-15 09:26:03
+qyoung,Quinn Young,E1036,Customer Care,human,Enabled,Y,2019-05-24,2026-11-14 07:41:19
+mshaw,Maya Shaw,E1037,Customer Care,human,Enabled,Y,2022-09-09,2026-11-15 12:29:33
+tcole,Trent Cole,E1038,Customer Care,human,Enabled,Y,2023-04-08,2026-11-15 08:01:13
+ehughes,Elena Hughes,E1039,Customer Care,human,Enabled,Y,2021-05-13,2026-11-15 10:36:19
+tlavoie,Tessa Lavoie,E1040,Customer Care,human,Enabled,Y,2020-10-03,2026-06-22 13:00:00
+rscott,Rachel Scott,E1041,Customer Care,human,Enabled,Y,2024-05-03,2026-11-15 16:42:37
+mfoster,Mason Foster,E1042,Customer Care,human,Enabled,Y,2021-03-12,2026-11-15 08:42:11
+jreid,Jade Reid,E1043,Customer Care,human,Enabled,Y,2024-01-27,2026-11-15 17:20:01
+iturner,Ian Turner,E1044,Customer Care,human,Enabled,Y,2020-05-29,2026-11-15 07:10:11
+azhang,Amelia Zhang,E1045,Billing,human,Enabled,Y,2021-07-06,2026-11-13 09:00:17
+tmiller,Tara Miller,E1046,Billing,human,Enabled,Y,2021-05-08,2026-06-13 09:00:00
+sschmidt,Sean Schmidt,E1047,Billing,human,Enabled,Y,2021-01-20,2026-11-15 10:02:21
+tklassen,Tessa Klassen,E1048,Billing,human,Enabled,Y,2022-05-29,2026-11-15 19:16:41
+sbrooks,Sean Brooks,E1049,Billing,human,Enabled,Y,2022-08-19,2026-11-13 08:28:37
+jmitchell,Jade Mitchell,E1050,Billing,human,Enabled,Y,2025-02-14,2026-11-13 13:19:42
+aolsen,Ava Olsen,E1051,Billing,human,Enabled,Y,2021-10-07,2026-11-13 08:13:14
+cdubois,Colin Dubois,E1052,Billing,human,Enabled,Y,2022-12-22,2026-11-13 13:19:04
+ehayes,Elena Hayes,E1053,Billing,human,Enabled,Y,2019-01-29,2026-11-13 13:42:56
+hwebb,Holly Webb,E1054,Billing,human,Enabled,Y,2024-01-26,2026-11-15 12:51:34
+mbell,Megan Bell,E1055,Billing,human,Enabled,Y,2023-11-29,2026-11-13 13:12:44
+wbaker,Willow Baker,E1056,Billing,human,Enabled,Y,2025-03-30,2026-11-13 08:39:28
+kbaker,Kevin Baker,E1057,Billing,human,Enabled,Y,2025-02-20,2026-11-13 13:48:56
+bwong,Brooke Wong,E1058,Network Operations,human,Enabled,Y,2021-09-28,2026-11-13 09:03:03
+jbell,Jade Bell,E1059,Network Operations,human,Enabled,Y,2024-03-24,2026-11-13 09:16:55
+tmoore,Tessa Moore,E1060,Network Operations,human,Enabled,Y,2023-05-29,2026-11-13 13:39:32
+kkaur,Kevin Kaur,E1061,Network Operations,human,Enabled,Y,2022-08-11,2026-11-13 08:53:12
+kwebb,Kyle Webb,E1062,Network Operations,human,Enabled,Y,2023-06-06,2026-11-13 12:49:26
+kmitchell,Kara Mitchell,E1063,Network Operations,human,Enabled,Y,2020-02-03,2026-11-13 08:30:31
+mwong,Maya Wong,E1064,Network Operations,human,Enabled,Y,2022-08-26,2026-11-13 13:24:40
+astewart,Ava Stewart,E1065,Network Operations,human,Enabled,Y,2025-03-03,2026-11-13 13:37:04
+ejensen,Eric Jensen,E1066,Network Operations,human,Enabled,Y,2020-03-14,2026-11-13 13:43:54
+mclarke,Megan Clarke,E1067,Network Operations,human,Enabled,Y,2019-03-31,2026-11-13 07:34:39
+landerson,Lena Anderson,E1068,Network Operations,human,Enabled,Y,2019-09-13,2026-11-13 07:59:38
+ttran,Tessa Tran,E1069,Network Operations,human,Enabled,Y,2025-03-29,2026-11-14 18:40:25
+fbell,Faith Bell,E1070,Network Operations,human,Enabled,Y,2021-03-24,2026-11-13 07:59:02
+efriesen,Elena Friesen,E1071,Network Operations,human,Enabled,Y,2020-09-24,2026-11-13 13:15:15
+hhughes,Hannah Hughes,E1072,Network Operations,human,Enabled,Y,2021-02-10,2026-11-11 13:10:55
+emiller,Ethan Miller,E1073,IT Service Desk,human,Enabled,Y,2021-03-31,2026-11-13 09:25:18
+hchartrand,Holly Chartrand,E1074,IT Service Desk,human,Enabled,Y,2019-12-14,2026-11-15 16:41:31
+syoung,Sara Young,E1075,IT Service Desk,human,Enabled,Y,2022-12-05,2026-11-13 12:34:56
+jlavoie,Jade Lavoie,E1076,IT Service Desk,human,Enabled,Y,2020-08-02,2026-11-13 13:38:51
+dmartel,Dana Martel,E1077,IT Service Desk,human,Enabled,Y,2023-02-22,2026-05-18 13:00:00
+alewis,Ava Lewis,E1078,IT Service Desk,human,Enabled,Y,2022-07-02,2026-11-13 13:21:30
+sshaw,Shane Shaw,E1079,IT Service Desk,human,Enabled,Y,2024-02-22,2026-11-15 18:55:10
+sbauer,Sean Bauer,E1080,IT Service Desk,human,Enabled,Y,2022-07-03,2026-11-15 13:32:49
+rclarke,Rachel Clarke,E1081,IT Service Desk,human,Enabled,Y,2021-03-20,2026-11-13 13:47:35
+fking,Faith King,E1082,IT Service Desk,human,Enabled,Y,2019-08-04,2026-11-13 13:10:25
+ffehr,Faith Fehr,E1083,IT Service Desk,human,Enabled,Y,2021-03-22,2026-11-12 07:41:00
+kwong,Kyle Wong,E1084,Corporate Security,human,Enabled,Y,2024-03-15,2026-11-12 12:51:28
+owebb,Olivia Webb,E1085,Corporate Security,human,Enabled,Y,2023-05-04,2026-11-13 08:34:12
+dwiebe,Diana Wiebe,E1086,Corporate Security,human,Enabled,Y,2021-04-16,2026-11-13 13:48:03
+wking,Wade King,E1087,Corporate Security,human,Enabled,Y,2023-10-15,2026-11-13 13:36:32
+uzhang,Uma Zhang,E1088,Corporate Security,human,Enabled,Y,2024-03-17,2026-11-13 08:44:27
+wevans,Wade Evans,E1089,Corporate Security,human,Enabled,Y,2019-10-26,2026-11-12 12:53:22
+pclarke,Peter Clarke,E1090,Field Services,human,Enabled,Y,2022-07-04,2026-11-13 08:19:23
+sdubois,Sean Dubois,E1091,Field Services,human,Enabled,Y,2021-07-01,2026-11-13 07:34:46
+atran,Adam Tran,E1092,Field Services,human,Enabled,Y,2021-11-28,2026-11-13 12:55:34
+wward,Willow Ward,E1093,Field Services,human,Enabled,Y,2023-03-13,2026-11-13 13:36:44
+cchartrand,Caleb Chartrand,E1094,Field Services,human,Enabled,Y,2023-08-01,2026-11-12 07:58:38
+ccarter,Carla Carter,E1095,Field Services,human,Enabled,Y,2023-10-09,2026-11-13 07:37:18
+itran,Isaac Tran,E1096,Field Services,human,Enabled,Y,2019-11-26,2026-11-13 13:40:46
+ekaur,Elena Kaur,E1097,Field Services,human,Enabled,Y,2022-04-25,2026-11-13 12:51:01
+aross,Ava Ross,E1098,Field Services,human,Enabled,Y,2020-02-04,2026-07-15 16:00:00
+sryan,Sean Ryan,E1099,Field Services,human,Enabled,Y,2020-01-06,2026-11-13 07:36:48
+tbell,Trent Bell,E1100,Field Services,human,Enabled,Y,2020-03-01,2026-11-13 13:29:15
+nryan,Nora Ryan,E1101,Field Services,human,Enabled,Y,2020-02-23,2026-06-24 11:00:00
+tstewart,Trent Stewart,E1102,Field Services,human,Enabled,Y,2021-11-27,2026-11-14 18:51:51
+sgray,Sara Gray,E1103,Field Services,human,Enabled,Y,2024-11-25,2026-11-13 13:32:48
+mklassen,Mason Klassen,E1104,Field Services,human,Enabled,Y,2025-04-12,2026-11-12 09:17:19
+bfehr,Ben Fehr,E1105,Field Services,human,Enabled,Y,2020-11-30,2026-11-13 13:34:42
+ebrooks,Elena Brooks,E1106,Field Services,human,Enabled,Y,2019-05-02,2026-11-13 09:11:04
+handerson,Hannah Anderson,E1107,Finance,human,Enabled,Y,2019-06-03,2026-11-14 16:49:49
+cklassen,Caleb Klassen,E1108,Finance,human,Enabled,N,2022-07-21,2026-11-13 08:21:07
+oclarke,Owen Clarke,E1109,Finance,human,Enabled,Y,2023-12-03,2026-11-13 08:40:25
+lshaw,Leah Shaw,E1110,Finance,human,Enabled,Y,2023-12-02,2026-11-13 08:00:54
+gdubois,Gabe Dubois,E1111,Finance,human,Enabled,Y,2020-10-08,2026-06-29 10:00:00
+bprice,Brooke Price,E1112,Finance,human,Enabled,N,2021-09-02,2026-11-13 07:46:35
+dking,Derek King,E1113,Finance,human,Enabled,Y,2022-11-09,2026-11-15 17:45:16
+rbauer,Rachel Bauer,E1114,Finance,human,Enabled,Y,2023-07-03,2026-11-13 12:58:45
+bmoore,Brooke Moore,E1115,Finance,human,Enabled,Y,2023-03-02,2026-11-15 17:33:27
+vfoster,Victor Foster,E1116,Finance,human,Enabled,Y,2025-02-20,2026-11-13 09:01:14
+fwalker,Fiona Walker,E1117,Human Resources,human,Enabled,Y,2019-06-28,2026-11-15 13:02:43
+mtran,Maya Tran,E1118,Human Resources,human,Enabled,Y,2021-11-24,2026-11-13 12:54:52
+kwatson,Kevin Watson,E1119,Human Resources,human,Enabled,Y,2025-01-01,2026-11-14 15:13:22
+dbrooks,Diana Brooks,E1120,Human Resources,human,Enabled,Y,2025-02-24,2026-11-13 07:47:26
+nmartel,Nora Martel,E1121,Human Resources,human,Enabled,Y,2025-01-16,2026-11-13 08:40:23
+chart,Caleb Hart,E1122,Human Resources,human,Enabled,Y,2020-10-27,2026-11-13 13:59:28
+eross,Eric Ross,E1123,Sales,human,Enabled,Y,2020-06-22,2026-11-13 09:20:40
+dlambert,Dana Lambert,E1124,Sales,human,Enabled,Y,2020-08-03,2026-11-13 12:55:26
+nanderson,Nathan Anderson,E1125,Sales,human,Enabled,Y,2021-08-26,2026-11-13 08:57:06
+breid,Ben Reid,E1126,Sales,human,Enabled,Y,2023-10-22,2026-11-13 13:25:48
+cdyck,Colin Dyck,E1127,Sales,human,Enabled,Y,2023-03-12,2026-11-13 09:14:03
+ddyck,Derek Dyck,E1128,Sales,human,Enabled,Y,2020-12-24,2026-11-13 07:57:10
+wklassen,Wade Klassen,E1129,Field Services,human,Disabled,Y,2021-05-03,2026-10-19 16:00:00
+plambert,Paige Lambert,E1130,Sales,human,Disabled,Y,2021-05-03,2026-10-27 16:00:00
+contractor.fw,Firewall Contractor,,Network Operations,human,Enabled,Y,2026-06-15,2026-09-30 14:12:44
+svc_backup,svc_backup,,IT Infrastructure,service,Enabled,NA,2020-02-10,
+svc_billing_batch,svc_billing_batch,,IT Infrastructure,service,Enabled,NA,2020-02-10,
+svc_siem_collector,svc_siem_collector,,IT Infrastructure,service,Enabled,NA,2020-02-10,
+svc_pbx_cdr,svc_pbx_cdr,,IT Infrastructure,service,Enabled,NA,2020-02-10,

@@ -1,0 +1,21 @@
+finding_id,check,requirement,severity,username,department,detail,action
+AR-001,Orphaned account (no HR record),AM-01,High,contractor.fw,Network Operations,Enabled human account with no matching employee record,"Find an owner and a contract end date, or disable it"
+AR-002,Privileged account without MFA,AM-04,High,aparker,Network Operations,Holds pbx_admin; MFA not enrolled,Enrol MFA before the next sign-in; block privileged access until then
+AR-003,Privileged account without MFA,AM-04,High,dmorin,Network Operations,Holds firewall_change; MFA not enrolled,Enrol MFA before the next sign-in; block privileged access until then
+AR-004,Privileged account without MFA,AM-04,High,jwilson,IT Service Desk,Holds user_admin; MFA not enrolled,Enrol MFA before the next sign-in; block privileged access until then
+AR-005,Separation of duties conflict (SOD-01),AM-06,High,ehall,Billing,Holds billing_adjust and billing_approve: One person can credit a customer account and approve their own credit,Remove one permission or add a second approver
+AR-006,Separation of duties conflict (SOD-02),AM-06,High,bthompson,Network Operations,Holds firewall_change and change_approve: One person can change a firewall rule and approve their own change,Remove one permission or add a second approver
+AR-007,Separation of duties conflict (SOD-04),AM-06,High,skowalski,Customer Care,Holds sim_swap_perform and sim_swap_approve: One person can move a customer's number to a new SIM and approve the move,Remove one permission or add a second approver
+AR-008,"Terminated employee, account enabled",AM-02,High,gmartin,Billing,Left on 2026-11-06 (14 days ago); account still enabled,Disable the account today and confirm with HR
+AR-009,"Terminated employee, account enabled",AM-02,High,hlee,Field Services,Left on 2026-11-13 (7 days ago); account still enabled,Disable the account today and confirm with HR
+AR-010,"Terminated employee, account enabled",AM-02,High,tcampbell,Customer Care,Left on 2026-10-31 (20 days ago); account still enabled,Disable the account today and confirm with HR
+AR-011,Dormant account,AM-05,Medium,aross,Field Services,Last sign-in 2026-07-15,Confirm with the manager; disable if not needed
+AR-012,Dormant account,AM-05,Medium,dmartel,IT Service Desk,Last sign-in 2026-05-18,Confirm with the manager; disable if not needed
+AR-013,Dormant account,AM-05,Medium,gdubois,Finance,Last sign-in 2026-06-29,Confirm with the manager; disable if not needed
+AR-014,Dormant account,AM-05,Medium,hschmidt,Customer Care,Last sign-in 2026-05-27,Confirm with the manager; disable if not needed
+AR-015,Dormant account,AM-05,Medium,kmackay,Customer Care,Last sign-in 2026-06-04,Confirm with the manager; disable if not needed
+AR-016,Dormant account,AM-05,Medium,nryan,Field Services,Last sign-in 2026-06-24,Confirm with the manager; disable if not needed
+AR-017,Dormant account,AM-05,Medium,tlavoie,Customer Care,Last sign-in 2026-06-22,Confirm with the manager; disable if not needed
+AR-018,Dormant account,AM-05,Medium,tmiller,Billing,Last sign-in 2026-06-13,Confirm with the manager; disable if not needed
+AR-019,Account without MFA,AM-03,Low,bprice,Finance,MFA not enrolled,Enrol MFA
+AR-020,Account without MFA,AM-03,Low,cklassen,Finance,MFA not enrolled,Enrol MFA

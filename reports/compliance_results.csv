@@ -1,0 +1,13 @@
+check_id,csf,requirement,control,measured,target,result,evidence
+CC-01,PR.AA-01,AM-02,Leavers' accounts disabled within 1 business day,3 enabled,0,Fail,"Still enabled: gmartin, hlee, tcampbell"
+CC-02,PR.AA-01,AM-01,Every enabled human account has an HR record,1 orphaned,0,Fail,No HR record: contractor.fw
+CC-03,PR.AA-01,AM-07,Service accounts are not used for interactive sign-in,0 accounts,0,Pass,Interactive sign-ins by: none
+CC-04,PR.AA-03,AM-04,MFA on every privileged account,75% (9 of 12),100%,Fail,"No MFA: aparker, dmorin, jwilson"
+CC-05,PR.AA-03,AM-03,"MFA coverage, all enabled human accounts",96.1% (124 of 129),>= 95%,Pass,Not enrolled: 5
+CC-06,PR.AA-05,AM-05,No enabled account unused for 90+ days,8 dormant,0,Fail,"Dormant: aross, dmartel, gdubois, hschmidt, kmackay, nryan, tlavoie, tmiller"
+CC-07,PR.AA-05,AM-06,No separation-of-duties conflicts,3 conflicts,0,Fail,"Conflicts: bthompson, ehall, skowalski"
+CC-08,DE.CM-01,AM-08,Firewall logs reach the SIEM every hour,4 missing hours,0,Fail,firewall_log: 2026-11-13 02:00 to 06:00
+CC-09,DE.AE-02,IR-01,Every alert is reviewed as part of an incident,11 of 11,100%,Pass,Alerts are grouped by entity
+CC-10,RS.MA-03,IR-02,Every incident is categorized and prioritized,10 of 10,100%,Pass,"Severity from the rule, raised for privileged accounts and confirmed fraud"
+CC-11,RS.MA-02,IR-03,Incidents acknowledged within target,50% (5 of 10),100%,Fail,"Missed: INC-0001, INC-0003, INC-0004, INC-0009, INC-0010"
+CC-12,RS.MI-01,IR-04,Incidents contained within SLA,70% (7 of 10),>= 90%,Fail,"Missed or overdue: INC-0003, INC-0004, INC-0009"

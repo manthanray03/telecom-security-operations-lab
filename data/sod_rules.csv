@@ -1,0 +1,5 @@
+rule_id,permission_a,permission_b,risk
+SOD-01,billing_adjust,billing_approve,One person can credit a customer account and approve their own credit
+SOD-02,firewall_change,change_approve,One person can change a firewall rule and approve their own change
+SOD-03,user_admin,audit_log_admin,One person can create access and delete the audit trail of it
+SOD-04,sim_swap_perform,sim_swap_approve,One person can move a customer's number to a new SIM and approve the move

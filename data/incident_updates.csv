@@ -1,0 +1,27 @@
+incident_id,timestamp,status,actor,note
+INC-0001,2026-11-10 07:45:00,Acknowledged,Security Analyst,Picked up at start of shift (Medium alerts don't page overnight). No successful sign-ins from 203.0.113.45.
+INC-0001,2026-11-10 08:30:00,Contained,Security Analyst,Blocked 203.0.113.45 on the VPN gateway and edge firewall. No accounts locked out.
+INC-0001,2026-11-10 15:00:00,Closed,Security Analyst,22 real usernames were tried once each. No compromise. Targeted staff reminded to report unexpected MFA prompts.
+INC-0002,2026-11-10 14:11:00,Acknowledged,Fraud Analyst (on call),Paged. Reviewing account changes after the SIM swap.
+INC-0002,2026-11-10 14:52:00,Contained,Fraud Analyst (on call),Account locked. Port-out request cancelled with the receiving carrier before it completed.
+INC-0002,2026-11-12 10:00:00,Closed,Fraud Analyst,Customer verified in store with photo ID and SIM restored. Caller had passed knowledge-based questions. Linked to INC-0004 (same agent and channel).
+INC-0004,2026-11-12 19:52:00,Acknowledged,Fraud Analyst (on call),Paged. Same pattern as INC-0002.
+INC-0004,2026-11-13 00:40:00,Contained,Fraud Analyst (on call),Account locked. Device order had already gone to the courier; shipment recalled.
+INC-0004,2026-11-16 11:00:00,Contained,Fraud Analyst,Investigation open: reviewing call recordings for both swaps processed by agent skowalski. See docs/investigation-sim-swap-fraud.md.
+INC-0005,2026-11-13 00:02:00,Acknowledged,Security Analyst (on call),Paged. Privileged network account signed in from Sao Paulo after 16 failures.
+INC-0005,2026-11-13 02:41:00,Contained,Security Analyst (on call),Account disabled and VPN session ended. Firewall change log shows no changes from the session.
+INC-0005,2026-11-13 09:35:00,Contained,Service Desk,Daniel Morin verified by phone; password reset and account re-enabled. MFA enrolment ticket raised; stays open until MFA is on.
+INC-0006,2026-11-13 09:20:00,Acknowledged,Security Analyst,Reviewing Singapore sign-in.
+INC-0006,2026-11-13 10:05:00,Contained,Security Analyst,Called Laura Bennett on her desk phone: she was in Regina and had approved an MFA prompt she didn't start. Sessions revoked and password reset.
+INC-0006,2026-11-14 16:00:00,Closed,Security Analyst,No mailbox rules or bulk downloads from the Singapore session. MFA switched to number matching for her account.
+INC-0007,2026-11-14 11:58:00,Acknowledged,Fraud Analyst,Reviewing store SIM swap and account changes.
+INC-0007,2026-11-14 12:40:00,Contained,Fraud Analyst,Account locked and email change reversed. Customer reached on alternate contact number.
+INC-0007,2026-11-17 10:00:00,Closed,Fraud Analyst,Store confirmed the swap was made with ID that did not match the customer. Store manager reported it to police; report number on file.
+INC-0008,2026-11-14 15:58:00,Acknowledged,Security Analyst (on call),Paged. Internal host scanning the billing database server.
+INC-0008,2026-11-14 17:30:00,Contained,Network Operations,Host 10.20.20.55 isolated from the network. Malware scan and owner lookup in progress.
+INC-0009,2026-11-15 09:10:00,Acknowledged,Security Analyst,Picked up Sunday morning. Former employee's account signed in to the CRM.
+INC-0009,2026-11-15 21:40:00,Contained,Service Desk,Account disabled. HR confirms the leaver notice was never sent to IT.
+INC-0009,2026-11-17 12:00:00,Closed,Security Analyst,CRM audit log requested to confirm what was viewed. Former manager and HR informed. Leaver process gap raised (see access review).
+INC-0010,2026-11-15 07:50:00,Acknowledged,Security Analyst,Picked up Sunday morning. 54 overnight international calls from the boardroom phone.
+INC-0010,2026-11-15 08:20:00,Contained,Network Operations,International dialling blocked on extension 4471 and its SIP password reset.
+INC-0010,2026-11-18 11:00:00,Closed,Security Analyst,Carrier credit request filed for the estimated loss. Boardroom phone moved to a restricted calling profile.
